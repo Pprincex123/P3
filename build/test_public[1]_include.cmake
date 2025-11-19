@@ -1,0 +1,5 @@
+if(EXISTS "/Users/pabloprince/Documents/THEREALP3/build/test_public[1]_tests.cmake")
+  include("/Users/pabloprince/Documents/THEREALP3/build/test_public[1]_tests.cmake")
+else()
+  add_test(test_public_NOT_BUILT test_public_NOT_BUILT)
+endif()

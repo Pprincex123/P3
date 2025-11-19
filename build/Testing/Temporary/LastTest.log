@@ -1,0 +1,188 @@
+Start testing: Nov 16 18:18 EST
+----------------------------------------------------------
+1/6 Testing: PlanningInMichigan.AnnArborMarquette
+1/6 Test: PlanningInMichigan.AnnArborMarquette
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=PlanningInMichigan.AnnArborMarquette" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"PlanningInMichigan.AnnArborMarquette" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = PlanningInMichigan.AnnArborMarquette
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlanningInMichigan
+[ RUN      ] PlanningInMichigan.AnnArborMarquette
+580
+[       OK ] PlanningInMichigan.AnnArborMarquette (0 ms)
+[----------] 1 test from PlanningInMichigan (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PlanningInMichigan.AnnArborMarquette" end time: Nov 16 18:18 EST
+"PlanningInMichigan.AnnArborMarquette" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: PlanningInMichigan.SaginawBentonHarbor
+2/6 Test: PlanningInMichigan.SaginawBentonHarbor
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=PlanningInMichigan.SaginawBentonHarbor" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"PlanningInMichigan.SaginawBentonHarbor" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = PlanningInMichigan.SaginawBentonHarbor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlanningInMichigan
+[ RUN      ] PlanningInMichigan.SaginawBentonHarbor
+239
+[       OK ] PlanningInMichigan.SaginawBentonHarbor (0 ms)
+[----------] 1 test from PlanningInMichigan (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PlanningInMichigan.SaginawBentonHarbor" end time: Nov 16 18:18 EST
+"PlanningInMichigan.SaginawBentonHarbor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: FindNeighbors.TestMiddle
+3/6 Test: FindNeighbors.TestMiddle
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=FindNeighbors.TestMiddle" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"FindNeighbors.TestMiddle" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = FindNeighbors.TestMiddle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FindNeighbors
+[ RUN      ] FindNeighbors.TestMiddle
+START WORKING PLEASE
+
+Please work
+
+hi
+Please work
+BOYHI05101112712[       OK ] FindNeighbors.TestMiddle (0 ms)
+[----------] 1 test from FindNeighbors (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FindNeighbors.TestMiddle" end time: Nov 16 18:18 EST
+"FindNeighbors.TestMiddle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: FindNeighbors.TestCorner
+4/6 Test: FindNeighbors.TestCorner
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=FindNeighbors.TestCorner" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"FindNeighbors.TestCorner" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = FindNeighbors.TestCorner
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FindNeighbors
+[ RUN      ] FindNeighbors.TestCorner
+hi
+Please work
+BOYHI516[       OK ] FindNeighbors.TestCorner (0 ms)
+[----------] 1 test from FindNeighbors (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FindNeighbors.TestCorner" end time: Nov 16 18:18 EST
+"FindNeighbors.TestCorner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: BFS.TestEmpty
+5/6 Test: BFS.TestEmpty
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=BFS.TestEmpty" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"BFS.TestEmpty" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BFS.TestEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BFS
+[ RUN      ] BFS.TestEmpty
+10, 11, 12, 13, 14, 15, 
+10, 11, 12, 13, 14, 15, [       OK ] BFS.TestEmpty (2 ms)
+[----------] 1 test from BFS (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BFS.TestEmpty" end time: Nov 16 18:18 EST
+"BFS.TestEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: BFS.TestCorner
+6/6 Test: BFS.TestCorner
+Command: "/Users/pabloprince/Documents/THEREALP3/build/test_public" "--gtest_filter=BFS.TestCorner" "--gtest_also_run_disabled_tests"
+Directory: /Users/pabloprince/Documents/THEREALP3/build
+"BFS.TestCorner" start time: Nov 16 18:18 EST
+Output:
+----------------------------------------------------------
+Running main() from /private/tmp/googletest-20250808-4780-aa0gxy/googletest-1.17.0/googletest/src/gtest_main.cc
+Note: Google Test filter = BFS.TestCorner
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BFS
+[ RUN      ] BFS.TestCorner
+50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 67, 67, 67, 66, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 
+50, 49, 48, 47, 46, 45, 44, 45, 46, 46, 47, 47, 47, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 27, 26, 26, 27, 28, /Users/pabloprince/Documents/THEREALP3/test/test_utils.h:91: Failure
+Expected equality of these values:
+  path[i].j
+    Which is: 48
+  correct_path[i].j
+    Which is: 49
+
+[  FAILED  ] BFS.TestCorner (3 ms)
+[----------] 1 test from BFS (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] BFS.TestCorner
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"BFS.TestCorner" end time: Nov 16 18:18 EST
+"BFS.TestCorner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 16 18:18 EST
